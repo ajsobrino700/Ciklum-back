@@ -1,0 +1,16 @@
+server:
+  port: 8080
+  servlet:
+    contextPath: /lottoland
+  
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant-path-matcher
+      

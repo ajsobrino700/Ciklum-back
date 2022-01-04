@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.ciklum</groupId>
 	<artifactId>lottoland</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>lottoland</name>
 	<description>Test for job</description>
 
